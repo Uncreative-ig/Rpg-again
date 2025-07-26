@@ -1,0 +1,12 @@
+jump
+roll
+duck
+parry
+dash
+deflect
+block
+dodge
+strike
+trembling
+misspelled
+underdog
